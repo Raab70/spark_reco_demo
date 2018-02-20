@@ -1,0 +1,5 @@
+get-pip.py
+spark-warehouse
+.cache
+datasets
+.bash_history
