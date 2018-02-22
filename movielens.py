@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     spark = SparkSession \
         .builder \
-        .appName("VideoAndRecircRecommendations") \
+        .appName("Recommendations") \
         .getOrCreate()
     sc = spark.sparkContext
 
